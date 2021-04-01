@@ -17,7 +17,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Prebuilt apps
 PRODUCT_PACKAGES += \
-    AppDirectedSMSService \
     atfwd \
     CarrierServices \
     CarrierSettings \
