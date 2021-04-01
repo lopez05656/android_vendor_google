@@ -24,7 +24,6 @@ PRODUCT_PACKAGES += \
     CarrierWifi \
     CNEService \
     com.qualcomm.qti.services.secureui \
-    ConnMO \
     crosshatch_game_driver \
     datastatusnotification \
     DCMO \

@@ -182,15 +182,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "ConnMO",
-	owner: "google",
-	apk: "proprietary/product/priv-app/ConnMO/ConnMO.apk",
-	certificate: "platform",
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "DCMO",
 	owner: "google",
 	apk: "proprietary/product/priv-app/DCMO/DCMO.apk",
