@@ -30,7 +30,6 @@ PRODUCT_PACKAGES += \
     DMService \
     EuiccGoogle \
     EuiccSupportPixel \
-    grilservice \
     HardwareInfo \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
@@ -43,19 +42,13 @@ PRODUCT_PACKAGES += \
     OemDmTrigger \
     qcrilmsgtunnel \
     QtiTelephonyService \
-    RilConfigService \
-    SCONE \
-    SprintDM \
-    SprintHM \
     SSRestartDetector \
     TetheringEntitlement \
     TimeService \
     uceShimService \
     uimremoteclient \
     uimremoteserver \
-    USCCDM \
-    VzwOmaTrigger \
-    WfcActivation
+    VzwOmaTrigger 
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \

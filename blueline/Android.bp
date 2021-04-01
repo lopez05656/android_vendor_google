@@ -257,87 +257,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "SCONE",
-	owner: "google",
-	apk: "proprietary/product/priv-app/SCONE/SCONE.apk",
-	presigned: true,
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "SprintDM",
-	owner: "google",
-	apk: "proprietary/product/priv-app/SprintDM/SprintDM.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "SprintHM",
-	owner: "google",
-	apk: "proprietary/product/priv-app/SprintHM/SprintHM.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "TetheringEntitlement",
-	owner: "google",
-	apk: "proprietary/product/priv-app/TetheringEntitlement/TetheringEntitlement.apk",
-	certificate: "platform",
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "USCCDM",
-	owner: "google",
-	apk: "proprietary/product/priv-app/USCCDM/USCCDM.apk",
-	certificate: "platform",
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "WfcActivation",
-	owner: "google",
-	apk: "proprietary/product/priv-app/WfcActivation/WfcActivation.apk",
-	presigned: true,
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "CarrierSetup",
 	owner: "google",
 	apk: "proprietary/system_ext/priv-app/CarrierSetup/CarrierSetup.apk",
-	presigned: true,
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "grilservice",
-	owner: "google",
-	apk: "proprietary/system_ext/priv-app/grilservice/grilservice.apk",
-	presigned: true,
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "RilConfigService",
-	owner: "google",
-	apk: "proprietary/system_ext/priv-app/RilConfigService/RilConfigService.apk",
 	presigned: true,
 	privileged: true,
 	system_ext_specific: true,
