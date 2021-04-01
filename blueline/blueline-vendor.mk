@@ -40,7 +40,6 @@ PRODUCT_PACKAGES += \
     MobileFeliCaSettingApp \
     MobileFeliCaWebPlugin \
     MobileFeliCaWebPluginBoot \
-    MyVerizonServices \
     OBDM_Permissions \
     obdm_stub \
     OemDmTrigger \
