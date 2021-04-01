@@ -58,12 +58,10 @@ PRODUCT_PACKAGES += \
     SSRestartDetector \
     TetheringEntitlement \
     TimeService \
-    Tycho \
     uceShimService \
     uimremoteclient \
     uimremoteserver \
     USCCDM \
-    VZWAPNLib \
     VzwOmaTrigger \
     WfcActivation
 
