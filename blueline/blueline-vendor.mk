@@ -26,7 +26,6 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.services.secureui \
     crosshatch_game_driver \
     datastatusnotification \
-    DCMO \
     DiagMon \
     DMService \
     EuiccGoogle \
