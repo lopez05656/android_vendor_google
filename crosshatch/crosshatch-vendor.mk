@@ -40,8 +40,6 @@ PRODUCT_PACKAGES += \
     MobileFeliCaSettingApp \
     MobileFeliCaWebPlugin \
     MobileFeliCaWebPluginBoot \
-    OBDM_Permissions \
-    obdm_stub \
     OemDmTrigger \
     qcrilmsgtunnel \
     QtiTelephonyService \

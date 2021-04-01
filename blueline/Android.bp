@@ -248,24 +248,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "OBDM_Permissions",
-	owner: "google",
-	apk: "proprietary/product/priv-app/OBDM_Permissions/OBDM_Permissions.apk",
-	presigned: true,
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
-	name: "obdm_stub",
-	owner: "google",
-	apk: "proprietary/product/priv-app/obdm_stub/obdm_stub.apk",
-	presigned: true,
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "OemDmTrigger",
 	owner: "google",
 	apk: "proprietary/product/priv-app/OemDmTrigger/OemDmTrigger.apk",
