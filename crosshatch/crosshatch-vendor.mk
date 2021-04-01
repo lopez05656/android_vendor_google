@@ -270,8 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/crosshatch/proprietary/product/lib64/libwallpapers-breel-2018-jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libwallpapers-breel-2018-jni.so \
     vendor/google/crosshatch/proprietary/product/priv-app/EuiccSupportPixel/esim-full-v0.img:$(TARGET_COPY_OUT_PRODUCT)/priv-app/EuiccSupportPixel/esim-full-v0.img \
     vendor/google/crosshatch/proprietary/product/priv-app/EuiccSupportPixel/esim-v1.img:$(TARGET_COPY_OUT_PRODUCT)/priv-app/EuiccSupportPixel/esim-v1.img \
-    vendor/google/crosshatch/proprietary/product/priv-app/MyVerizonServices/lib/arm64/libakuaf.so:$(TARGET_COPY_OUT_PRODUCT)/priv-app/MyVerizonServices/lib/arm64/libakuaf.so \
-    vendor/google/crosshatch/proprietary/product/priv-app/MyVerizonServices/lib/arm64/libmotricity.so:$(TARGET_COPY_OUT_PRODUCT)/priv-app/MyVerizonServices/lib/arm64/libmotricity.so
 
 PRODUCT_COPY_FILES += \
     vendor/google/crosshatch/proprietary/system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.android.hotwordenrollment.common.util.xml \
