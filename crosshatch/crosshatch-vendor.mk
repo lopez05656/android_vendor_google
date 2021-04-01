@@ -30,7 +30,6 @@ PRODUCT_PACKAGES += \
     DMService \
     EuiccGoogle \
     EuiccSupportPixel \
-    GCS \
     grilservice \
     HardwareInfo \
     HotwordEnrollmentOKGoogleWCD9340 \
