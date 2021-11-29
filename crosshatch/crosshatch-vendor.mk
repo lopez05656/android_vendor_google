@@ -20,7 +20,6 @@ PRODUCT_PACKAGES += \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
     atfwd \
-    CarrierServices \
     CarrierSettings \
     CarrierSetup \
     CarrierWifi \
