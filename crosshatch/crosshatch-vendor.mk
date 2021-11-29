@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     AppDirectedSMSService \
     atfwd \
     CarrierSettings \
-    CarrierSetup \
     CarrierWifi \
     CNEService \
     com.qualcomm.qti.services.secureui \
